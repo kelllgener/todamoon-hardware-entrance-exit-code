@@ -14,6 +14,12 @@ This repository contains the backend logic for the **TODAMOON** scanner system u
 
 - `modified-entrance-scanner.py`  
   - An updated or experimental version of the entrance scanner script with improvements.
+ 
+- `entranceScannerCamera`  
+  -Directory containing ESP32-Cam entrance scanner programs written in C and C++.
+
+- `exitScannerCamera`  
+  - Directory containing ESP32-Cam exit scanner programs written in C and C++.
 
 - `.gitignore`  
   - Files and folders to exclude from version control.
