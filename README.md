@@ -33,7 +33,7 @@ This repository contains the backend logic for the **TODAMOON** scanner system u
 - **Hardware**: ESP32-Cam module
 - **Software**:
   - Python 3.x
-  - Required Python libraries (e.g., `opencv-python`, `requests`, `picamera`, or others) depending on script requirements
+  - Required Python libraries (e.g., 'opencv-python' 'numpy' 'aiohttp' 'pycryptodome' 'firebase-admin' 'psutil') depending on script requirements
 
 ### Setup Instructions
 
